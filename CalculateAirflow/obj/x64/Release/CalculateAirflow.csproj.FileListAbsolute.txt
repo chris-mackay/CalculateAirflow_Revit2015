@@ -3,3 +3,10 @@ C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\Calcula
 C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.dll
 C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.pdb
 C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.csprojResolveAssemblyReference.cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\bin\x64\Release\CalculateAirflow.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\bin\x64\Release\CalculateAirflow.pdb
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.csprojResolveAssemblyReference.cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\obj\x64\Release\CalculateAirflow.pdb
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\bin\x64\Release\RevitAPI.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflow\CalculateAirflow\bin\x64\Release\RevitAPIUI.dll

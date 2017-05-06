@@ -52,12 +52,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="RevitAPI">
-      <HintPath>..\..\..\RevitAPI\RevitAPI.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\RevitAPI\RevitAPI.dll</HintPath>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>..\..\..\RevitAPI\RevitAPIUI.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\RevitAPI\RevitAPIUI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
