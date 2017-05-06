@@ -1,0 +1,7 @@
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\bin\Debug\CalculateAirflow.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\bin\Debug\CalculateAirflow.pdb
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\bin\Debug\RevitAPI.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\bin\Debug\RevitAPIUI.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\Debug\CalculateAirflow.csprojResolveAssemblyReference.cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\Debug\CalculateAirflow.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\DPSTools_2015_API\CalculateAirflowCS\CalculateAirflow\CalculateAirflow\obj\Debug\CalculateAirflow.pdb
